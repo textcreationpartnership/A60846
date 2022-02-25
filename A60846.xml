@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarkable observations on the proceedings against Sir Thomas Armstrong in His Majesties court of Kings-Bench at Westminster, upon an outlawry for high-treason &amp;c. : as also on what passed at his execution at Tyburn and the paper then delivered to the sheriffs of London and since published.</title>
+            <author>Armstrong, Thomas, Sir, 1624?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60846</idno>
+            <idno type="STC">Wing S4593</idno>
+            <idno type="STC">ESTC R35196</idno>
+            <idno type="EEBO-CITATION">15062902</idno>
+            <idno type="OCLC">ocm 15062902</idno>
+            <idno type="VID">103143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1579:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarkable observations on the proceedings against Sir Thomas Armstrong in His Majesties court of Kings-Bench at Westminster, upon an outlawry for high-treason &amp;c. : as also on what passed at his execution at Tyburn and the paper then delivered to the sheriffs of London and since published.</title>
+                  <author>Armstrong, Thomas, Sir, 1624?-1684.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Geo. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armstrong, Thomas, --  Sir, 1624?-1684.</term>
+               <term>Rye House Plot, 1683.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103143:1"/>
+            <head>Some Remarkable OBSERVATIONS ON THE PROCEEDINGS AGAINST Sir Thomas Armſtrong, In His Majeſties Court of <hi>Kings-Bench,</hi> at <hi>Weſtminſter,</hi> Upon an Outlawry for High-Treaſon, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">AS ALSO On what paſſed at his Execution at <hi>Tyburn,</hi> and the PAPER then delivered to the Sheriffs of <hi>London,</hi> and ſince Publiſhed.</head>
+            <p>IT is not with intention to overcharge the too Exu<g ref="char:EOLhyphen"/>berant Preſs, or increaſe the number of Prints, that theſe enſuing Remarks are now Publiſhed; But conſidering the Age we now live in, and the Perſons amongſt whom, who are too ready to take any advant<g ref="char:EOLhyphen"/>age to Palliate the <hi>Treaſons</hi> and <hi>Conſpiracies</hi> they have been found Notoriouſly Guilty of, and rather to Ar<g ref="char:EOLhyphen"/>raign the Laws that adjudged them, than Confeſs the Guilt they are adjudged of. That I have undertaken a little to look back on the Proceedings againſt, an the laſt Words of Sir <hi>Thomas Armſtrong.</hi>
+            </p>
+            <p>If ever any People had cauſe to ſay they lived under a Good and Gracious Governour, and an Equal and Impartial Government, it is certainly our ſelves; for as on the one Hand we ought to bleſs God for the Life and welfare of our preſent Monarch, ſo on the other for the Equal and Impartial Juſtice we enjoy under him. It is not with us, as in Times un-forgotten; that our Lives, Liberties and Eſtates, were at the Diſpoſal of an Unjuſt and Tyrannical Uſurpation: we have no <hi>High Courts of Injuſtice,</hi> no unordinary Proceedings that muſt be Warranted by ſubſequent Acts or Votes in <hi>Parliament,</hi> to avouch their Legality: but every Man may ſet un<g ref="char:EOLhyphen"/>der his own <hi>Vine,</hi> and ſing a <hi>Requiem</hi> to himſelf in Peace and Plenty, well knowing that the increaſe of his La<g ref="char:EOLhyphen"/>bour and Induſtry is his own Propriety, unleſs he juſtly makes a Forfeiture thereof by his Traterous and Cri<g ref="char:EOLhyphen"/>minal Actions.</p>
+            <p>Yet ſuch are the Poſitions of too many amongſt us, that we are apt to Quarrel with the Benifits we Enjoy, and Calumniate thoſe Laws that Protect us, and thoſe very Miniſters by whoſe Juſt and Wiſe Diſpoſal that Protection is derived to us.</p>
+            <p>But I look not on it as any great Wonder to hear the Thief complain of the Halter, and Traytor at the Se<g ref="char:EOLhyphen"/>verity of the Sentence; ſelf love induces him to Plead ſome what for his Juſtification; tho of all Men our pre<g ref="char:EOLhyphen"/>ſent Sufferrer had (on due conſideration) leaſt to ſay for himſelf which we now come to Examine,</p>
+            <p>A Horrid Conſpiracy againſt the Life and Perſon of his Sacred Majeſty, his Royal Brother, and the Govern<g ref="char:EOLhyphen"/>ment, was on foot, ſeveral of the Conſpirators recei<g ref="char:EOLhyphen"/>ved Sentence, and were juſtly Executed for the ſame: others Fled; amongſt which number, Sir <hi>Thomas Arm<g ref="char:EOLhyphen"/>ſtrong,</hi> was not the leaſt nor laſt that avoyded Juſtice: for which he ſtood duly Outlawed, and five hundred Pounds by Proclamation ſet upon his Head, as a Re<g ref="char:EOLhyphen"/>ward to him who ſhould Apprehend him.</p>
+            <p>Upon which about a year after he was taken beyond the Seas, brought over, and Committed to the Goal of <hi>Newgate,</hi> and by <hi>Habeas Corpus,</hi> on <hi>Saturday</hi> the <hi>14th</hi> of this laſt <hi>June,</hi> brought up to the <hi>Kings-Bench-Bar,</hi> at <hi>Weſtminſter,</hi> where he was Arraigned upon the ſaid Outlawry, and demanded what he could ſay for him<g ref="char:EOLhyphen"/>ſelf, why Execution ſhould not be Awarded againſt him upon that Attainder according to Law.</p>
+            <p>His pretence was that he was beyond Sea at the time of the Outlawry and begged to be Tryed, urging as a point of Law, the Statute of <hi>Edward</hi> the Sixth, which provides, <hi>That if a party Outlawed ſhould within one year next enſueing the ſaid Outlawry pronounced or Judg<g ref="char:EOLhyphen"/>ment given upon the ſaid Outlawry, Yeild himſelf to the Lord Cheif Juſtice of</hi> England, <hi>for the time being, and offer to Traverſe the Inditement, or Appeal, whereupon the ſaid Outlawry ſhould be pronounced as aforeſaid, That then he ſhould be received to the ſaid Traverſe and being thereupon found not Guilty by the Verdict, of Twelve men he ſhould be acquitted of the ſaid Outlawry,</hi> &amp;c.</p>
+            <p>But pray let us conſider this Plea, and let any Impar<g ref="char:EOLhyphen"/>tial Eye take a view thereof, <hi>If ſuch party ſo Outlawed yeild himſelf,</hi> Is it for a man to yeild himſelf to the Law, to run away ſhelter and abſcond out of the ſight and reach of it, to defie all Proclamations, and ſtand out from the legal and repeated Summons thereof, and when at laſt by the care and caution of the Go<g ref="char:EOLhyphen"/>vernment he is forcibly taken and againſt his will brought in a Priſoner, to offer then to ſubmit himſelf, and to take hold of what was never intended for him. If this be a yielding according to the Statute, then Sir <hi>Thomas Armſtrong</hi> might tolerably enough pretend the ſame. But the Law is not to be Baffled. Had he indeed thro Remorſe of Conſcence, came and flung himſelf at the Feet of his Offended Majeſty, and humbly have ſubmit<g ref="char:EOLhyphen"/>ted his Head a Forfeit to Juſtice, or through ſenſe of his Innocency, appealed to the Law and Juſtice of the Go<g ref="char:EOLhyphen"/>vernment; it might have born ſome weight, and with<g ref="char:EOLhyphen"/>out all doubt he would have had the favour of his Prince, and proviſion of the Law, which in this Caſe he was juſtly and regularly A. bridg'd of. Nor could he as in a further part of the ſaid Proceedings, is by him urged, claim any Right by what had been offerr'd to another Criminal in his Caſe. <hi>A little while a go, ſays he there was one in this Place had the benefit of a Tryal offered him if he would accept it; that is the thing I now Deſire, and I thank God my Caſe is quite another thing, this I kn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w my</hi>
+               <pb facs="tcp:103143:2" rendition="simple:additions"/> 
+               <hi>own Innocency, and I deſire to make it appear by a Tryal.</hi> This he meant by Mr, <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lloway,</hi> but what was offerred to him, was the Product of his Majeſties Imparralel'd Bounty, and could never be demanded as a Debt, which was free Grace and Favour. But their Caſes ſays Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Armſtrong,</hi> were different: true, the one had Con<g ref="char:EOLhyphen"/>feſſed his Crimes, and in ſome meaſure begged his Ma<g ref="char:EOLhyphen"/>jeſties Mercy, but the other in a Contumelious Stubborn<g ref="char:EOLhyphen"/>neſs, tho the ſame had been ten times more palpably proved againſt him, ſtood out and diſowned it, in contra<g ref="char:EOLhyphen"/>diction of the ſaid Proofs, and even of the Circumſtan<g ref="char:EOLhyphen"/>ſes he then ſtood under: for had he been Innocent, why at that time of the Day did he demand a Tryal? he might have had it before his Conſcious Breaſt had en<g ref="char:EOLhyphen"/>ticed him from his Wronged Country; or if the ſenſe of Innocency had been ſo prevalent upon him, why did it not bring him in to take hold of that benefit the Law provided for him?</p>
+            <p>But alas! theſe pretences have other meanings, than at fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſight they import; they are <hi>ad Captandum Po<g ref="char:EOLhyphen"/>pulum,</hi> to make the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r-blind Multitude, who can ſee no further than what is before them, apprehend Hardſhip and Illegality in the proceedings againſt the Criminal, and conſequently ſtir them up, at leaſt, to a mu<g ref="char:EOLhyphen"/>tinous and Seditious Pity, if not a Rebellious Revenge. But thus for as to the Proceedings, let us now look into the Words he ſaid at the place of Execution, <hi>viz.</hi>
+            </p>
+            <p>Sir Thomas Armſtrong, <hi>Mr. Sheriff, do you purpoſe to ask me any Queſtions?</hi>
+            </p>
+            <p>Sh. Daniel. <hi>No Sir; you have leave to ſay what you pleaſe, and ſhall not be interrupted unleſs you upbraid the Government.</hi>
+            </p>
+            <p>Sir T. Armſtrong, <hi>Sir I thank you: But I ſhall not ſay any thing by way of Speech to the People. Pray take this Pa<g ref="char:EOLhyphen"/>per, which contains my Mind; and I deſire no other perſon may ask me any Queſtion.</hi>
+            </p>
+            <p>It is here Obſervable how cautious the ſufferer was leaſt any Queſtion ſhould be asked him that might have diſcovered his Guilt, he was, you ſee, of the ſame humour Dying as living, not only to avoid a free and open Confeſſion of his Crimes, as he ought to have made in reſpect of Gods Command and the benefit of his own Immortal Soul, but alſo the very appearance of any method that might have tended thereunto; But let us look into the Contents of his mind, which he declared to be in the ſaid Paper: And this as he left the ſame be<g ref="char:EOLhyphen"/>hind him for the peruſal of Poſterity ought to bear ſome regard, But miſerable is it to ſee how many falſe colours the ſame is varniſhed with, as if there were no more to be looked after in the laſt Speech of a Dying man than to deceive the World and wrap up the Crimes they dye Guilty of in Subdolous and double meanings.</p>
+            <p>
+               <hi>I thank Almighty God tho I have but a ſhort time allowed me I find my ſelf prepared for Death, and my thoughts ſet on another World,</hi> This ſhort time was much more than the Horrid Conſpirators would have allowed his Sacred Majeſty and than the Law afforded him, <hi>Yet I cannot but give ſo much of my little time to ſet down in Writing my Anſwers to ſome Calumnies raiſed ſince my cloſe Impriſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nment, as well as what Mr. Attorny accuſed me of at the Bar, I was told a very great Perſon ſays I was a Spy of Olivers</hi> I ſhall not enter into the conteſt of this report, as to it's validity or truth, nor into the further Juſtification of himſelf upon that Head, which he purſues in the next Lines only ſay if there be truth in what he pleads for his Juſtification it is little to his preſent pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe and no anſwer to h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s preſent concerns in the Execrable de<g ref="char:EOLhyphen"/>ſigns he ſtood charged with, for if he was then a ſuffer<g ref="char:EOLhyphen"/>er, as he reaped the Glory thereof in his own ſatisfacti<g ref="char:EOLhyphen"/>on, ſo was it a future incouragement to engage him in Loyalty to that Sacred Perſon who hath ſince honou<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him with ſo many Acts of Grace, Favour and Ho<g ref="char:EOLhyphen"/>nour but to proceed.</p>
+            <p>In the next Paragraph he goes on to give an Account of the Proceedings agatnſt him at the <hi>Kings-Bench-Barr,</hi> and that he had urged the Statute of <hi>Edward</hi> the Sixth to benefit himſelf with a Tryal, which he concludes to ſay was denyed him, and that <hi>he was with an unordinary Roughneſs condemned and made a Preſident, tho Mr.</hi> Hol<g ref="char:EOLhyphen"/>loway, <hi>a little before had it offered him and could not but think all the World would conclude his Caſe very different, elſe why refuſed him:</hi> This hath been ſufficiently exploded in the preceeding Page, tho I cannot but obſerve how he calls the Juſtice of the Land an <hi>unordinary Roughneſs,</hi> but further.</p>
+            <p>
+               <hi>Mr. Attorny ſaid I was accuſed for being one of thoſe that was to kill the King as he came from</hi> Newmarket, <hi>after the Fire, I take God to Witneſs I never had any ſuch deſign nor ever had ſuch a thought to take away the Kings Life neither had any man the Impudence to propoſe ſo Barbarous and baſe a thing to me, neither was I ever in any deſign to alter the Go<g ref="char:EOLhyphen"/>vernment of</hi> England.</p>
+            <p>It is obſervable that in the late Horrid Conſpiracy there were ſeveral parts So Col. <hi>Walcot</hi> was to Charge the Guards, But declared no deſign to kill the King; In like manner Sir <hi>Thomas Armſtrong,</hi> (which he doth not deny) might have Charged the Guards and Deſtroyed the Perſon of his Royal Highneſs both which he was Indicted for, and yet no deſign <hi>in his way</hi> againſt the King, nor further ſaith he had I any deſign againſt the Government, that is, the <hi>Monarchical</hi> Government, for the Crown might have been Tranſlated from the Sacred Head that wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it and yet Monarchy have been ſtill preſerved. Nor does he mention in his whole Paper any one word of the Plot it ſelf for which he ſtood accuſed, but evades the General in ſtriving to Anſwer this one particular which how he hath done I leave to the un<g ref="char:EOLhyphen"/>prejudiced.</p>
+            <p>But he proceeds, I have Lived and now Dye of the Reformed Religion, a <hi>True</hi> and ſincere <hi>Proteſtant;</hi> and in the Communion of the Church of <hi>England</hi> the name of <hi>True Proteſtants</hi> hath been ſufficiently and dangerouſly known amongſt us, under which ſatis<g ref="char:EOLhyphen"/>faction, he ſeems confident of the Pardon of God Al<g ref="char:EOLhyphen"/>mighty, and ſo draws to a Concluſion, <hi>I thank God I have no Repining at my Heart, for the Condition my Sins hath moſt deſervedly brought upon me, I have deſerved much worſe at the Hands of God.</hi> He would have obliged the World and himſelf, in the Face of Heaven to have enumera<g ref="char:EOLhyphen"/>ted what thoſe Crimes were, and doubtleſs we ſhould have had a fuither Account of his <hi>Treaſons.</hi> But ſays he <hi>I do freely forgive all the World, even thoſe Concer<g ref="char:EOLhyphen"/>ned in taking away my Life.</hi> As for the ſentence of <hi>Death paſt upon me, I cannot but think a very hard one; be<g ref="char:EOLhyphen"/>ing I think denyed the Laws of the Land.</hi> Here's Bleſſing and Curſing all in a Breath; Forgiveneſs of the World and an unjuſt accuſation of the Laws and M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſters of Juſtice in one and the ſame S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntence. <hi>To Conclude,</hi> ſays he, <hi>as I never had any Deſign againſt the Kings Life, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Life of any man; ſo I never was in a Deſign to alter the Mon<g ref="char:EOLhyphen"/>archy.</hi> The Truth of the firſt Clauſe depends upon the latter, <hi>As I never had a Deſign to alter the Monarchy, ſo I had none againſt the Kings Life.</hi> This is Cautelouſly Pen'd, he had not as before mentioned a deſign to alter the Monarchy, becauſe he only intended to Tranſplant the Crown from one to another Head, and not to Deſtroy the Monarchy, tho he changed the Monarch So that, If the latter be granted you muſt obſerve the Va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſh of the former Clauſe.</p>
+            <p>But in the next Paragraph he tells you <hi>I Dye in Charity with all the World,</hi> and not without juſt reaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, <hi>and there<g ref="char:EOLhyphen"/>fore I heartily Pray God to Bleſs the Church of Chriſt every where,</hi> to what and how many <hi>Churches</hi> this extends, is very incertain, I ſcarce believe he excludes the <hi>Presby<g ref="char:EOLhyphen"/>terian, Independant,</hi> with the <hi>et-caetra</hi>'s of <hi>Schiſmatical,</hi> and <hi>Phanatical Congregations,</hi> which is confirmed by his next Words, <hi>theſe Poor Nations,</hi> True Proteſtant Cant, and in the laſt place, <hi>the Kings Majeſty.</hi> whom God long pre<g ref="char:EOLhyphen"/>ſerve,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don,</hi> Printed by <hi>Geo. Croom,</hi> in <hi>Thames-ſtreet</hi> over againſt <hi>Baynard's Caſtle.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
